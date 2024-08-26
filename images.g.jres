@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAFBVVVVQ/wAAVVX/X1X/AFBV9f//VVUAUFX1//9VVf9QVfX//1VV/1BV9f//VVUPUFX1//9VVQ9QVfX//1VV/1BV9f//VVX/UFX1//9VVQAAVVX/X1X/AABQVVVVUP8AAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "heroWalkFront1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
